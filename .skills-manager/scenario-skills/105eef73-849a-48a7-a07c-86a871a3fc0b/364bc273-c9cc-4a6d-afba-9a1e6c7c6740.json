@@ -5,6 +5,6 @@
   "sort_order": 0,
   "tools": {
     "claude_code": true,
-    "opencode": true
+    "opencode": false
   }
 }
