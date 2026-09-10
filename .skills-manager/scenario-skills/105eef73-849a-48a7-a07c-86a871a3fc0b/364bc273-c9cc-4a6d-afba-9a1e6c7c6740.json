@@ -4,7 +4,13 @@
   "skill_id": "364bc273-c9cc-4a6d-afba-9a1e6c7c6740",
   "sort_order": 0,
   "tools": {
+    "antigravity": true,
     "claude_code": true,
-    "opencode": false
+    "cursor": true,
+    "gemini_cli": true,
+    "github_copilot": true,
+    "junie": true,
+    "opencode": false,
+    "windsurf": true
   }
 }
